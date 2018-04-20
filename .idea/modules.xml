@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/djangosimple.iml" filepath="$PROJECT_DIR$/.idea/djangosimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxonline/.idea/mxonline.iml" filepath="$PROJECT_DIR$/mxonline/.idea/mxonline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxonline3/.idea/mxonline3.iml" filepath="$PROJECT_DIR$/mxonline3/.idea/mxonline3.iml" />
       <module fileurl="file://$PROJECT_DIR$/swmsimple/.idea/swmsimple.iml" filepath="$PROJECT_DIR$/swmsimple/.idea/swmsimple.iml" />
       <module fileurl="file://$PROJECT_DIR$/../untitle/.idea/untitle.iml" filepath="$PROJECT_DIR$/../untitle/.idea/untitle.iml" />
     </modules>
